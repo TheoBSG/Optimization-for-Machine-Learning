@@ -111,4 +111,3 @@ SAM is particularly effective for generative models, where robustness to paramet
 ```bash
 git clone https://github.com/your-username/optimization-for-machine-learning.git
 cd optimization-for-machine-learning
-pip install -r requirements.txt
