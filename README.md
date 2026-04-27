@@ -4,7 +4,7 @@
 
 This repository contains the code and analysis for three advanced projects in optimization for machine learning. The work focuses on three key areas: geometric optimization on manifolds, synchronization problems on Lie groups, and robust optimization for generalization. Each project demonstrates a deep understanding of mathematical principles, algorithmic implementation, and large-scale empirical validation.
 
-The skills demonstrated here—including Riemannian geometry, spectral methods, second-order optimization, and sharpness-aware minimization—are directly transferable to high-dimensional signal processing, sensor networks, and robust estimation in complex systems.
+The skills demonstrated here, including Riemannian geometry, spectral methods, second-order optimization, and sharpness-aware minimization, are directly transferable to high-dimensional signal processing, sensor networks, and robust estimation in complex systems.
 
 ---
 
